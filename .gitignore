@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EulerProblems/.vs/EulerProblems/v16
+/EulerProblems/Debug
+/EulerProblems/MultipleOf/Debug
